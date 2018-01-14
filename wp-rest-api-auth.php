@@ -1,8 +1,8 @@
 <?php
 /**
- *    Plugin Name:       WP REST API AUTH
+ *    Plugin Name:       WP API AUTH
  *    Plugin URI:        https://www.nonmadden.com
- *    Description:       WP REST API AUTH enables a UI to toggle endpoints in the REST API.
+ *    Description:       WP API AUTH enables a UI to toggle endpoints in the REST API.
  *    Version:           1.0.0
  *    Author:            Non Madden
  *    Author URI:        https://www.nonmadden.com
