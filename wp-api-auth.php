@@ -6,7 +6,7 @@
  *    Description:       WP API AUTH enables a UI to toggle endpoints in the REST API.
  *    Version:           1.0.0
  *    Author:            Non Madden
- *    Plugin URI:       https://github.com/nonmadden/wp-api-auth
+ *    Plugin URI:        https://github.com/nonmadden/wp-api-auth
  *    Author URI:        https://www.nonmadden.com
  *    License:           GPL-3.0+
  *    License URI:       http://www.gnu.org/licenses/gpl-3.0.txt
@@ -23,7 +23,7 @@ if (! defined('ABSPATH')) {
     die("You can't do anything by accessing this file directly.");
 }
 
-require plugin_dir_path(__FILE__) . 'includes/class-wp-api-auth.php';
+require plugin_dir_path(__FILE__) . '/includes/class-wp-api-auth.php';
 
 function run_wp_api_auth()
 {
